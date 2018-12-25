@@ -44,7 +44,7 @@ updating where our object is based on sensor measurements
 
 Then the prediction and update steps repeat themselves in a loop.
 
-To measure how well my Kalman filter performs, I calculated root mean squared error comparing the Unscented Kalman filter results with the provided ground truth.
+To measure how well my Unscented Kalman filter performs, I calculated root mean squared error comparing the Unscented Kalman filter results with the provided ground truth also calculated the NIS.
 
 and the results met the rubric criteria:
 
