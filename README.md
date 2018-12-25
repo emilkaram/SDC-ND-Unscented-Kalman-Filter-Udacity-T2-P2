@@ -19,7 +19,7 @@ To compile and run by doing the following from the project top directory.
 
 ## Project description:
 
-![](https://github.com/emilkaram/Self-Driving-Cars-extended-kalman-filter-c-Project-udacity--Term2--Project1/blob/master/img/1.png)
+![](https://github.com/emilkaram/SDC-ND-Unscented-Kalman-Filter-Udacity-T2-P2/blob/master/img/5.png)
 
 # The input data:
 
